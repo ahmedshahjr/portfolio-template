@@ -1,6 +1,6 @@
 # Portfolio Template
 
-An open-source, user-friendly, responsive, and accessible portfolio template for developers 🚀⚡t
+An open-source, user-friendly, responsive, and accessible portfolio template for developers 🚀⚡
 
 Give a star ⭐ if you find it useful. [Visit site &rarr;](https://opensource-portfolio.netlify.app/)
 
